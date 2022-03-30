@@ -24,8 +24,8 @@ window.onload = function() {
   var messages = [
     'Hey there 👋',
     'I\'m Sumit',
-    'I code things on web 3.0<br>Recently shipped this NFT auction site <a target="_blank" href="https://artsea.skghosh.me">artsea.skghosh.me</a>',
-    'I\'m currently accepting both freelance and full-time offers.<br> You can contact me at <a href="mailto:hi@sumit-ghosh.com">hi@sumit-ghosh.com</a>',
+    'I code things on web 3.0',
+    'I\'m currently accepting freelance and collaboration offers.<br> You can contact me at <a href="mailto:hi@sumit-ghosh.com">hi@sumit-ghosh.com</a>',
     '<a target="_blank" href="https://twitter.com/summitkg">twitter.com/summitkg</a><br><a target="_blank" href="https://www.linkedin.com/in/summitkg/">linkedin.com/in/summitkg</a><br><a target="_blank" href="https://github.com/SkullTech">github.com/SkullTech</a>',
     getCurrentTime(),
     '👀 S.'
